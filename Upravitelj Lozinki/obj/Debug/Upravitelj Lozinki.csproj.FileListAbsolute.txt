@@ -1,0 +1,12 @@
+C:\Users\mihaj\source\repos\Upravitelj Lozinki\Upravitelj Lozinki\bin\Debug\Upravitelj Lozinki.exe.config
+C:\Users\mihaj\source\repos\Upravitelj Lozinki\Upravitelj Lozinki\bin\Debug\Upravitelj Lozinki.exe
+C:\Users\mihaj\source\repos\Upravitelj Lozinki\Upravitelj Lozinki\bin\Debug\Upravitelj Lozinki.pdb
+C:\Users\mihaj\source\repos\Upravitelj Lozinki\Upravitelj Lozinki\obj\Debug\Upravitelj Lozinki.csprojAssemblyReference.cache
+C:\Users\mihaj\source\repos\Upravitelj Lozinki\Upravitelj Lozinki\obj\Debug\Upravitelj_Lozinki.Form1.resources
+C:\Users\mihaj\source\repos\Upravitelj Lozinki\Upravitelj Lozinki\obj\Debug\Upravitelj_Lozinki.Properties.Resources.resources
+C:\Users\mihaj\source\repos\Upravitelj Lozinki\Upravitelj Lozinki\obj\Debug\Upravitelj Lozinki.csproj.GenerateResource.cache
+C:\Users\mihaj\source\repos\Upravitelj Lozinki\Upravitelj Lozinki\obj\Debug\Upravitelj Lozinki.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\Upravitelj Lozinki\Upravitelj Lozinki\obj\Debug\Upravitelj Lozinki.exe
+C:\Users\mihaj\source\repos\Upravitelj Lozinki\Upravitelj Lozinki\obj\Debug\Upravitelj Lozinki.pdb
+C:\Users\mihaj\source\repos\Upravitelj Lozinki\Upravitelj Lozinki\obj\Debug\Upravitelj_Lozinki.Form2.resources
+C:\Users\mihaj\source\repos\Upravitelj Lozinki\Upravitelj Lozinki\obj\Debug\Upravitelj_Lozinki.Form3.resources
